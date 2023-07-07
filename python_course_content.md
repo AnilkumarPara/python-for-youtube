@@ -65,6 +65,7 @@
  22. Functions
      1.  Different types of functions
      2.  Recursive functions
+     3.  Scope (Local, Global)
  23. Operations iterables
      1.  Strings
      2.  Lists
