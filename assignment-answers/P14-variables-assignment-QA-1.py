@@ -8,5 +8,3 @@ percentage_of_marks = 75.6
 print(student_name)
 print(roll_number)
 print(percentage_of_marks)
-
-
