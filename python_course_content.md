@@ -42,8 +42,11 @@
     4.  Logical
     5.  Membership (in)
     6.  Identity (is), Shallow copy vs deep copy
-    7.  Bitwise, Number System
-    8.  Operator Precedence
+    7.  Difference between == and is operators
+    8.  Number System
+    9.  1's and 2's complement
+    10.  Bitwise operators
+    11.  Operator Precedence
 19. Control Statements
     1.  Conditional
         1.  if
