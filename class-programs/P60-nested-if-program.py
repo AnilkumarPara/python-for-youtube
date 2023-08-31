@@ -12,9 +12,3 @@ if place_1 == 'Hyderabad':
         if place_3 == 'Karachi':
             print("Getting the Karachi biscuits")
 print("End of the program")
-
-
-
-
-
-        
