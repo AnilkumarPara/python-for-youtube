@@ -9,10 +9,3 @@ for number in numbers:
     if number == target:
         counter += 1
 print(f"The number {target} occurs {counter} times in the list.")
-
-
-
-
-
-
-
