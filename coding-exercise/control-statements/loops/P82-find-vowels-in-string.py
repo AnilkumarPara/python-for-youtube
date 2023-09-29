@@ -7,7 +7,3 @@ for char in s1:
         print(char)
         counter += 1
 print("Total Number of vowels in a string =", counter)
-
-
-
-
