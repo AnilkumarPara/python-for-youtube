@@ -70,19 +70,20 @@
     3. Branching
        1. break
        2. continue
-    4. Programming on conditional statements and loops
-22. List Comprehension
-23. Dictionary Comprehension
-24. Functions
+    4. Coding Excercises on conditional statements and loops
+    5. Coding Excercises on Patterns
+22. Functions
      1. Different types of functions
      2. Recursive functions
      3. Scope (Local, Global)
-25. Operations iterables
-     1. Strings
-     2. Lists
-     3. Tuples
-     4. Sets
-     5. Dictionaries
+23. Operations iterables
+     1. Strings Functions
+     2. Lists Functions
+     3. Tuples Functions
+     4. Sets Functions
+     5. Dictionaries Functions
+24. List Comprehension
+25. Dictionary Comprehension
 26. Modules
      1. Math module
      2. Time module
@@ -95,6 +96,8 @@
      2. Python main function
      3. eval
      4. Coding Best Practices
+     5. assert keyword
+     6. None Keyword
 
 ## Advanced Python
 
