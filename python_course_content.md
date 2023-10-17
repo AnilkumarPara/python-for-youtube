@@ -73,9 +73,12 @@
     4. Coding Excercises on conditional statements and loops
     5. Coding Excercises on Patterns
 22. Functions
-     1. Different types of functions
-     2. Recursive functions
-     3. Scope (Local, Global)
+     1. Types of User-defined functions
+     2. Why should we go for the functions
+     3. Recursive functions
+     4. Memoization
+     5. Memoization vs Memorization
+     6. Scope (Local, Global)
 23. Operations iterables
      1. Strings Functions
      2. Lists Functions
