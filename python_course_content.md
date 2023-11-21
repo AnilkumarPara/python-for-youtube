@@ -90,7 +90,8 @@
 26. Modules
      1. Math module
      2. Time module
-     3. Random numbers
+     3. Datetime module
+     4. Random module
 27. Packages
 28. Package installer for Python (pip)
 29. Debugging python code in pycharm
