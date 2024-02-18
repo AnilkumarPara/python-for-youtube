@@ -7,5 +7,3 @@ students_info = {'student_names': ['Anil', 'Jayansh', 'Shanvika'], 'ages': [19, 
                  'roll_nos': (201, 202, 205), 'classes': ['Intermediate', 'UKG', '2nd Grade'],
                  'sections': ['A', 'E', 'G'], 'percentages': [65.6, 78.9, 99.1]
                  }
-
-
